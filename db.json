@@ -1,0 +1,62 @@
+{
+  "store": {
+    "name": "My Awesome Store",
+    "location": "1234 Elm Street, Cityville",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "products": [
+          {
+            "id": 101,
+            "name": "Smartphone",
+            "price": 599.99,
+            "description": "A high-quality smartphone with advanced features.",
+            "in_stock": 50
+          },
+          {
+            "id": 102,
+            "name": "Laptop",
+            "price": 999.99,
+            "description": "Powerful laptop for all your computing needs.",
+            "in_stock": 25
+          },
+          {
+            "id": 103,
+            "name": "Tablet",
+            "price": 299.99,
+            "description": "Compact tablet with a crisp display.",
+            "in_stock": 75
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Clothing",
+        "products": [
+          {
+            "id": 201,
+            "name": "T-Shirt",
+            "price": 19.99,
+            "description": "Comfortable and stylish cotton T-shirt.",
+            "in_stock": 100
+          },
+          {
+            "id": 202,
+            "name": "Jeans",
+            "price": 49.99,
+            "description": "Durable and fashionable denim jeans.",
+            "in_stock": 60
+          },
+          {
+            "id": 203,
+            "name": "Sweater",
+            "price": 39.99,
+            "description": "Warm and cozy sweater for cold days.",
+            "in_stock": 45
+          }
+        ]
+      }
+    ]
+  }
+}
